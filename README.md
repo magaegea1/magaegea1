@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Magaly 👋
 
-<!--
-**magaegea1/magaegea1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Junior Software Developer | UTN | Java | Python | SQL | R  
+💡 Passionate about programming, data, and problem-solving.  
+📚 Currently studying Software Development at UTN and building backend projects.  
+🧠 Former Mathematics Educator — strong analytical and logical background.  
+🌍 Based in Buenos Aires, Argentina.  
 
-Here are some ideas to get you started:
+## Featured Projects
+- **Java OOP Project** — Interfaces, exceptions, UML modeling.  
+- **Python Integrator** — Data analysis and automation scripts.  
+- **SQL Exercises** — Database design and queries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's connect!
+[LinkedIn](https://www.linkedin.com/in/magaly-egea-ruiz-124a88267/) | [Email](mailto:magalyegea@gmail.com)
